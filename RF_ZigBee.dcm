@@ -6,6 +6,12 @@ K 2.4GHz rf transceiver ZigBee 802.15.4
 F http://www.ti.com/lit/gpn/cc2520
 $ENDCMP
 #
+$CMP CC2630F128RHB
+D CC2630 SimpleLink 6LoWPAN, ZigBee Wireless MCU
+K 6LoWPAN ZigBee Wireless RF Transceiver 802.15.4
+F http://www.ti.com/lit/ds/symlink/cc2630.pdf
+$ENDCMP
+#
 $CMP MC13192
 D 2.4 GHz, Low Power Transceiver for 802.15.4 (Zigbee controller)
 K ZIGBEE
